@@ -1,0 +1,61 @@
+img{
+    height: 100px;
+    width: 100px;
+}
+.card{
+width:200px ;
+border:2px solid grey;
+box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+margin-top: 20px;
+margin-left: 20px;
+background-color: lemonchiffon;
+
+
+}
+img{
+    align-self: center;
+}
+h6{
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+ul{
+    text-align: center;
+    visibility: hidden;
+
+    
+}
+
+button{
+    margin-bottom: 20px;
+    width: 80px;
+    align-self: center;
+    margin-top: 30px;
+    border-color:  solid black;
+    box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+
+li{
+ 
+    list-style: none;
+    margin-right: 2rem;
+    
+}
+
